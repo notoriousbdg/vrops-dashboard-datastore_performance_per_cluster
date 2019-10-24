@@ -1,4 +1,4 @@
-# Datastore Performance per Cluster for vRealize Operations 7.5
+# Datastore Performance per Cluster for vRealize Operations 7.5 and 8.0
 ---------
 
 This dashboard can be used to view the performance of all datastores within a cluster using [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
@@ -16,6 +16,6 @@ This dashboard can be used to view the performance of all datastores within a cl
 
 ## Support
 
-This dashboard requires vRealize Operation 7.5 Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 7.5 or 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-datastore_performance_per_cluster/issues) for feedback.
